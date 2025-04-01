@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Apple iPhone clone",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a visually appealing and highly interactive Apple iPhone website clone",
+    "skills": ["React js", "tailwind", "GSAP", "Three js"],
+    "demo": "https://lovely-dasik-06ae43.netlify.app/",
+    "source": "https://github.com/Sahil7015/iphone-main"
+  },
+  {
+    "title": "Brainwave",
+    "imageSrc": "projects/project.png",
+    "description": "A sleek, modern UI/UX website built with React.js, Tailwind CSS and best front-end practices",
+    "skills": ["React", "tailwind", "Vite"],
+    "demo": "https://dancing-empanada-cb1bdf.netlify.app/",
+    "source": "https://github.com/Sahil7015/brainwave-main"
+  },  
+  {
+    "title": "Store Manager",
+    "imageSrc": "projects/project.png",
+    "description": "Its a web application which allow the user to manage the items in a store with a very simple design",
+    "skills": ["Html","CSS", "MySql", "DJango"]
+  }
+]
